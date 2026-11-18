@@ -5,3 +5,8 @@ suggest = ["detekt.yml", ".detekt.yml", "config/detekt/detekt.yml", "config/dete
 version = "0.1.1"
 package = "https://github.com/dan548/openidea-detekt-ktlint/releases/download/v0.1.1/dan548.detekt-ktlint-0.1.1.oiplugin"
 sha256 = "d95439991d1b59711a634340d1b09980f46f717fe8ad3b8983c4217166bcdba9"
+
+[[versions]]
+version = "0.1.2"
+package = "https://github.com/dan548/openidea-detekt-ktlint/releases/download/v0.1.2/dan548.detekt-ktlint-0.1.2.oiplugin"
+sha256 = "552fbe1c763ed770d6dc094a88e01211d4bb2d6e74715b72656d96312c2b0233"
