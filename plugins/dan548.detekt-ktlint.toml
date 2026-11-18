@@ -1,0 +1,7 @@
+repository = "https://github.com/dan548/openidea-detekt-ktlint"
+suggest = ["detekt.yml", ".detekt.yml", "config/detekt/detekt.yml", "config/detekt.yml"]
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/dan548/openidea-detekt-ktlint/releases/download/v0.1.0/dan548.detekt-ktlint-0.1.0.oiplugin"
+sha256 = "3d732a76427fa6b9f42d0cd6946c940681c150198f68faa6f69f23b473c0f1e5"
